@@ -6,7 +6,7 @@ namespace Wiedeń
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Wiedeń");
+			Console.WriteLine("Welcome in Wiedeń");
 		}
 	}
 }
