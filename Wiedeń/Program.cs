@@ -7,7 +7,7 @@ namespace Wiedeń
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Welcome in Wiedeń");
-			Console.WriteLine("Thamks");
+			Console.WriteLine("Thanks");
 		}
 	}
 }
