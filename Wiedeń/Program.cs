@@ -8,6 +8,7 @@ namespace Wiedeń
 		{
 			Console.WriteLine("Welcome in Wiedeń");
 			Console.WriteLine("Thanks");
+			Console.WriteLine("Not problem");
 		}
 	}
 }
